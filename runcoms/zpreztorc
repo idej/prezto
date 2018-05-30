@@ -40,7 +40,9 @@ zstyle ':prezto:load' pmodule \
   'history-substring-search' \
   'tmux' \
   'syntax-highlighting' \
-  'ruby'
+  'ruby' \
+  'docker' \
+  'fasd' \
 
 #
 # Autosuggestions
